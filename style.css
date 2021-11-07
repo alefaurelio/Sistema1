@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(74, 108, 218); /* cor de fundo da página */
+  color: #A0522D
+  font-family: Tahoma;
+  font-size: 12px;
+}
+
+h1, h2, h3, {
+text-align: center;
+color: rgb(119, 43, 7)
+}
+
+p {
+text-align: justify;
+color: #fdfcfb;
+}
